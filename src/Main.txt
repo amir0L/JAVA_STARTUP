@@ -1,0 +1,33 @@
+
+main() {
+  // saisier
+  //object bultain   ajout la function dans la class Bultain
+  // enter les notes
+  // cree object de type Matiere(name,not)
+  //add MatiereObject to list des matieresFaibles
+  Function EnterMaiter() {
+    do{
+    Bultain Devoir;
+    
+    Matiere objTemp = new Matiere();
+    String finched = 'no';
+    int indexDeMatier;
+    constractor de objTemp; //constractor send the messages
+    Devoir.list [indexDeMatier]=objTemp;
+    String input ;
+    print("are you fin de saisir no/yes");
+    scanf(input);
+    finched=input;
+    }while(finched =="no");
+
+  }
+  //------------function2 :pour propose des exercice
+  //cheek if the notes est faible __> my remark: with faibles auto is cheeked
+  //cheek the name of matier
+  //proposé des exos
+  //
+
+  // save data asd
+
+  //traiter
+}
